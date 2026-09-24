@@ -87,7 +87,6 @@ Currently, I'm focusing on:
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- MySQL
 - SQL
 - Database Design
 - Querying & Data Management
@@ -103,8 +102,6 @@ Currently, I'm focusing on:
 
 - Power BI
 - Microsoft Excel
-- Data Analysis
-- Data Visualization
 - Dashboard Development
 
 ---
